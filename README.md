@@ -1,4 +1,4 @@
-## 📝 Fornmulário
+## 📝 Formulário
 
 ⚙️ Funcionalidades
 
